@@ -1,0 +1,57 @@
+body {
+    font-family: "Rajdhani", cursive;
+    color: white;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(purple, orange);
+    letter-spacing: 4px;
+
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+
+}
+h2, p {
+    font-size: 1.5rem;
+}
+/* IMAGE: GRAPH PAPER */
+#graph {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+/* IMAGE OF 3+2i */
+#solution1 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+/* IMAGE OF 5-4i */
+#solution2 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+/* IMAGE OF 6 + 3i */
+#solution3 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 35px;
+}
